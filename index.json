@@ -1,0 +1,11 @@
+{
+  "org": "allenai",
+  "repo": "safety-eval",
+  "versions": [
+    {
+      "commit": "060cc903d64703214c549b5c3a30ea8ceef2e588",
+      "tag": "",
+      "parsed_at": "2026-11-07T20:40:06.414712+00:00"
+    }
+  ]
+}
