@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/allenai/safety-eval/commit/060cc903d64703214c549b5c3a30ea8ceef2e588",
       "git:hexsha": "060cc903d64703214c549b5c3a30ea8ceef2e588",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
